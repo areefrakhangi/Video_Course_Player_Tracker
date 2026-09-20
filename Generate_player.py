@@ -2,7 +2,7 @@ import os
 import html
 
 # Define the extensions to look for
-VIDEO_EXTENSIONS = ('.mp4', '.webm', '.ogg')
+VIDEO_EXTENSIONS = ('.mp4', '.webm', '.mov','.ogg')
 
 def generate_video_player():
     # Use the current directory where the script is running
